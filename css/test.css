@@ -1,0 +1,22 @@
+h1{
+	font-size: 30px;
+	color: teal;
+}
+h2 {
+	font-size: 20px;
+	color: maroon;
+	font-style: italic;
+}
+.set1 {
+	text-transform: uppercase;
+	font-size: 40px;
+}
+.set1.set2 {
+	font-size: 50px;
+}
+span {
+	color: yellowgreen;
+}
+h2 span {
+	color: red;
+}
